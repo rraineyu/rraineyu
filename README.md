@@ -23,6 +23,11 @@ Forecasts a 26-week-ahead weather time series, comparing how trend and seasonali
 `Python` `statsmodels` `Streamlit` `Time Series Forecasting`
 🔗 [Live dashboard](https://seasonality-vs-trend.streamlit.app/) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/seasonality-vs-trend)
 
+**[NBA Efficiency Report](https://github.com/rraineyu/nba-efficiency-powerbi)** — Interactive Sports Analytics Dashboard
+Analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting efficiency. Cleaned and modeled player stats in Python, then built an interactive Power BI dashboard — including a volume-vs-efficiency view that separates high-volume scorers from truly efficient ones, beyond the standard box-score stat.
+`Python` `Power BI` `Data Visualization`
+🔗
+
 ---
 
 ### 💼 Experience
