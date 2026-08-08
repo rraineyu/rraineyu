@@ -14,17 +14,17 @@ Stress-tests any US nonprofit's financial health using real IRS Form 990 data. R
 🔗 [Live demo](https://rraineyu.github.io/fundflow-dashboard/) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/fundflow-dashboard)
 
 **[NutriAI](https://github.com/rraineyu/nutriai-planner)** — AI-Powered Meal Recommendation Platform
-Generates a personalized 7-day meal plan in under 60 seconds, tailored to clinical conditions, allergens, and nutrient targets. Built a recommendation pipeline combining FAISS embedding retrieval, a weighted multi-objective ranker, and a Thompson-sampling bandit — improved goal-fit accuracy from 0.36 to 0.74 with zero safety-check violations.
+generates a personalized 7-day meal plan in under 60 seconds, tailored to clinical conditions, allergens, and nutrient targets. Built a recommendation pipeline combining FAISS embedding retrieval, a weighted multi-objective ranker, and a Thompson-sampling bandit — improved goal-fit accuracy from 0.36 to 0.74 with zero safety-check violations.
 `Python` `FAISS` `Streamlit` `Recommendation Systems`
 🔗 [Live demo](https://itsraineyu.com/nutriai) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/nutriai-planner)
 
 **[Weekly Weather Forecasting](https://github.com/rraineyu/seasonality-vs-trend)** — Holt-Winters Time Series Analysis
-Forecasts a 26-week-ahead weather time series, comparing how trend and seasonality components each affect forecast stability across four Holt-Winters model variants, with confidence-interval analysis.
+forecasts a 26-week-ahead weather time series, comparing how trend and seasonality components each affect forecast stability across four Holt-Winters model variants, with confidence-interval analysis.
 `Python` `statsmodels` `Streamlit` `Time Series Forecasting`
 🔗 [Live dashboard](https://seasonality-vs-trend.streamlit.app/) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/seasonality-vs-trend)
 
 **[NBA Efficiency Report](https://github.com/rraineyu/nba-efficiency-powerbi)** — Interactive Sports Analytics Dashboard
-Analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting efficiency. Cleaned and modeled player stats in Python, then built an interactive Power BI dashboard — including a volume-vs-efficiency view that separates high-volume scorers from truly efficient ones, beyond the standard box-score stat.
+analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting efficiency. Cleaned and modeled player stats in Python, then built an interactive Power BI dashboard — including a volume-vs-efficiency view that separates high-volume scorers from truly efficient ones, beyond the standard box-score stat.
 `Python` `Power BI` `Data Visualization`
 🔗
 
