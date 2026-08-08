@@ -26,7 +26,7 @@ forecasts a 26-week-ahead weather time series, comparing how trend and seasonali
 **[NBA Efficiency Report](https://github.com/rraineyu/nba-efficiency-powerbi)** — Interactive Sports Analytics Dashboard
 analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting efficiency. Cleaned and modeled player stats in Python, then built an interactive Power BI dashboard — including a volume-vs-efficiency view that separates high-volume scorers from truly efficient ones, beyond the standard box-score stat.
 `Python` `Power BI` `Data Visualization`
-🔗
+🔗[Live dashboard](https://app.powerbi.com/groups/me/reports/5cd3bf2a-2fcb-4b81-8458-a539d84dc69a?ctid=a8046f64-66c0-4f00-9046-c8daf92ff62b&pbi_source=linkShare) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/nba-efficiency-powerbi)
 
 ---
 
