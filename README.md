@@ -1,6 +1,6 @@
 # Hi, I'm Raine Yu 👋
 
-Product-minded builder working across product management, applied AI, and data engineering. I like taking messy, real-world data and turning it into products people love to use - currently a **Product Manager Intern at Worklittle**, with an M.S. in Business Analytics.
+Builder working across product management, applied AI, and data. I like taking messy, real-world data and turning it into products people love to use - currently a **Product Manager Intern at Worklittle**, with an M.S. in Business Analytics.
 
 📍 San Francisco Bay Area &nbsp;·&nbsp; 🌐 [itsraineyu.com](https://itsraineyu.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/raineyu/) &nbsp;·&nbsp; ✉️ rraineyyu@gmail.com
 
