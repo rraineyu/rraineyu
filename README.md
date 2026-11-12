@@ -8,25 +8,25 @@ Builder working across product management, applied AI, and data. I like taking m
 
 ### 🚀 Featured Projects
 
-**[FundFlow](https://github.com/rraineyu/fundflow-dashboard)** — Nonprofit Financial Risk Simulator
+**[FundFlow](https://github.com/rraineyu/fundflow-dashboard)** - Nonprofit Financial Risk Simulator
 Stress-tests any US nonprofit's financial health using real IRS Form 990 data. Runs a Monte Carlo simulation (5,000 trials, calibrated to each org's own historical volatility) to produce 12/24/36-month solvency probabilities, plus funding-shock and grant-impact scenario modeling — all client-side in the browser.
 `JavaScript` `Chart.js` `Monte Carlo simulation`
 🔗 [Live demo](https://rraineyu.github.io/fundflow-dashboard/) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/fundflow-dashboard)
 
-**[NutriAI](https://github.com/rraineyu/nutriai-planner)** — AI-Powered Meal Recommendation Platform
+**[NutriAI](https://github.com/rraineyu/nutriai-planner)** - AI-Powered Meal Recommendation Platform
 generates a personalized 7-day meal plan in under 60 seconds, tailored to clinical conditions, allergens, and nutrient targets. Built a recommendation pipeline combining FAISS embedding retrieval, a weighted multi-objective ranker, and a Thompson-sampling bandit — improved goal-fit accuracy from 0.36 to 0.74 with zero safety-check violations.
 `Python` `FAISS` `Streamlit` `Recommendation Systems`
 🔗 [Live demo](https://itsraineyu.com/nutriai) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/nutriai-planner)
 
-**[Weekly Weather Forecasting](https://github.com/rraineyu/seasonality-vs-trend)** — Holt-Winters Time Series Analysis
+**[Weekly Weather Forecasting](https://github.com/rraineyu/seasonality-vs-trend)** - Holt-Winters Time Series Analysis
 forecasts a 26-week-ahead weather time series, comparing how trend and seasonality components each affect forecast stability across four Holt-Winters model variants, with confidence-interval analysis.
 `Python` `statsmodels` `Streamlit` `Time Series Forecasting`
 🔗 [Live dashboard](https://seasonality-vs-trend.streamlit.app/) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/seasonality-vs-trend)
 
-**[NBA Efficiency Report](https://github.com/rraineyu/nba-efficiency-powerbi)** — Interactive Sports Analytics Dashboard
-analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting efficiency. Cleaned and modeled player stats in Python, then built an interactive Power BI dashboard — including a volume-vs-efficiency view that separates high-volume scorers from truly efficient ones, beyond the standard box-score stat.
+**[NBA Efficiency Report](https://github.com/rraineyu/nba-efficiency-powerbi)** - Interactive Sports Analytics Dashboard
+analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting efficiency. Cleaned and modeled player stats in Python, then built an interactive Tableau dashboard - including a volume-vs-efficiency view that separates high-volume scorers from truly efficient ones, beyond the standard box-score stat.
 `Python` `Power BI` `Data Visualization`
-🔗[Live dashboard](https://app.powerbi.com/groups/me/reports/5cd3bf2a-2fcb-4b81-8458-a539d84dc69a?ctid=a8046f64-66c0-4f00-9046-c8daf92ff62b&pbi_source=linkShare) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/nba-efficiency-powerbi)
+🔗[Live dashboard](https://public.tableau.com/views/NBA2025-2026Dashboard/NBADashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) &nbsp;·&nbsp; [Repo](https://github.com/rraineyu/nba-efficiency-powerbi)
 
 ---
 
