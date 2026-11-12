@@ -1,12 +1,12 @@
-# Hi, I'm Raine Yu 👋
+# Hi, I'm Raine Yu 
 
 Builder working across product management, applied AI, and data. I like taking messy, real-world data and turning it into products people love to use - currently a **Product Manager Intern at Worklittle**, with an M.S. in Business Analytics.
 
-📍 San Francisco Bay Area &nbsp;·&nbsp; 🌐 [itsraineyu.com](https://itsraineyu.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/raineyu/) &nbsp;·&nbsp; ✉️ rraineyyu@gmail.com
+San Francisco Bay Area &nbsp;·&nbsp; [itsraineyu.com](https://itsraineyu.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/raineyu/) &nbsp;·&nbsp; rraineyyu@gmail.com
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[FundFlow](https://github.com/rraineyu/fundflow-dashboard)** - Nonprofit Financial Risk Simulator
 Stress-tests any US nonprofit's financial health using real IRS Form 990 data. Runs a Monte Carlo simulation (5,000 trials, calibrated to each org's own historical volatility) to produce 12/24/36-month solvency probabilities, plus funding-shock and grant-impact scenario modeling — all client-side in the browser.
@@ -30,7 +30,7 @@ analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **Worklittle** — Product Manager Intern *(Jun 2026–Present)* — Engineer AI-first workflows to rapidly test product hypotheses, run product discovery, and architect documentation systems that speed up cross-functional alignment.
 - **NCAA (UC Davis Practicum)** — Project Manager & Data Engineer *(Aug 2025–Jun 2026)* — Led a 0-to-1 data modernization initiative for the NCAA Business Performance team, directing a team of 3. Built an OCR pipeline (Azure Document Intelligence, Python, SQL) achieving **99.86% extraction accuracy across 48,674 documents**, now adopted to streamline historical record digitization.
@@ -39,14 +39,14 @@ analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting
 
 ---
 
-### 🎓 Education
+### Education
 
 - **UC Davis Graduate School of Management** — M.S. in Business Analytics *(2025–2026)*, Fellowship Scholarship
 - **Pepperdine University** — B.A. in Sports Administration, Minor in Marketing *(2019–2023)*
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Languages & Data:** ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=postgresql) ![R](https://img.shields.io/badge/-R-333?style=flat-square&logo=r)
 
@@ -56,5 +56,5 @@ analyzes 2025-26 NBA player performance across scoring, playmaking, and shooting
 
 ---
 
-<sub>Always happy to talk product, data, or AI — reach out on [LinkedIn](https://www.linkedin.com/in/raineyu/) or [email](mailto:rraineyyu@gmail.com).</sub>
+<sub>Always happy to talk product, data, or AI - reach out on [LinkedIn](https://www.linkedin.com/in/raineyu/) or [email](mailto:rraineyyu@gmail.com).</sub>
 
